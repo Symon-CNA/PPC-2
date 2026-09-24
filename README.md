@@ -19,11 +19,3 @@ A modelagem abrange a solução do polinómio característico associado a um sis
 1. Clique no notebook `PPC_2.ipynb` presente neste repositório.
 2. Clique no botão **"Open in Colab"** no topo da página.
 3. Execute todas as células do notebook (`Ctrl + F9` ou no menu `Ambiente de execução -> Executar tudo`).
-
----
-
-### Execução Local (Terminal / IDE)
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Symon-CNA/PPC-2.git](https://github.com/Symon-CNA/PPC-2.git)
